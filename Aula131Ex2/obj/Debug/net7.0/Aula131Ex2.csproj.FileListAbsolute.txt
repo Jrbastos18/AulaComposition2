@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\bin\Debug\net7.0\Aula131Ex2.exe
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\bin\Debug\net7.0\Aula131Ex2.deps.json
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\bin\Debug\net7.0\Aula131Ex2.runtimeconfig.json
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\bin\Debug\net7.0\Aula131Ex2.dll
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\bin\Debug\net7.0\Aula131Ex2.pdb
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\Aula131Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\Aula131Ex2.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\Aula131Ex2.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\Aula131Ex2.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\Aula131Ex2.dll
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\refint\Aula131Ex2.dll
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\Aula131Ex2.pdb
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\Aula131Ex2.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projetos\Aula131Ex2\Aula131Ex2\obj\Debug\net7.0\ref\Aula131Ex2.dll
